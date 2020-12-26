@@ -69,7 +69,7 @@ jq(document).ready(() => {
                 <br>
                 <span>
                     
-                    <em>${res[i].defs}</em>
+                    <em>${res[i].defs}.</em>
                 </span>
                 </li>
                 `
